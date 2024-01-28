@@ -1,1 +1,1 @@
-# 33
+# Výpočet Faktoriálu
